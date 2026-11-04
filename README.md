@@ -26,3 +26,15 @@ Aplicación web interactiva desarrollada para generar paletas de colores aleator
    git clone [https://github.com/JEGarciaCardona/Paleta-de-colores-Henry.git]
 
 2. Puedes verlo mediante esta pagina: [https://jegarciacardona.github.io/ProyectoM1_JhonatanEstivenGarciaCardona-/]
+
+
+# Ejemplos de uso de ia para proyecto
+
+1. [Etiquetas HTML](/img/etiquetas-html.jpg)
+
+2. [Funcionalidad Java](./img/funcionalidad-java.jpg)
+
+3. [Tipos de letras](./img/tipos-de-letras-para-agregar.jpg)
+
+4. [Verificación CSS](./img/verificacion-css.jpg)
+
