@@ -23,8 +23,8 @@ Aplicación web interactiva desarrollada para generar paletas de colores aleator
 # Instalación y Uso Local
 
 1. Clona este repositorio:
-   git clone [https://github.com/JEGarciaCardona/Paleta-de-colores-Henry.git]
-
+   git clone [https://github.com/JEGarciaCardona/ProyectoM1_JhonatanEstivenGarciaCardona-.git]
+   
 2. Puedes verlo mediante esta pagina: [https://jegarciacardona.github.io/ProyectoM1_JhonatanEstivenGarciaCardona-/]
 
 
